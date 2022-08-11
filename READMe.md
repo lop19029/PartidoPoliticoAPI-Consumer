@@ -1,7 +1,7 @@
 # Partido Consumer API
 
 
-API para consumo de [PartidoPolitico API](https://git.gft.com/aolj/partidospoliticosapi)
+API para consumo de [PartidoPolitico API](https://github.com/lop19029/PartidoPolitico-API)
 
 ### Funcionalidades
 
